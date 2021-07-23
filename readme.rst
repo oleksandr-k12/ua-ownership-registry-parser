@@ -13,7 +13,7 @@
 
 - Скопіювати текст з ПДФ документа в текстовий файл
 - Встановити початкові параметри в settings.py (вхідний текстовий файл,  вихідний csv, список автозамін)
-- При необхідності модифікувати скрипт (він використовує `PyParsing <https://pyparsing-docs.readthedocs.io/en/latest/HowToUsePyparsing.html>`) бібліотеку
+- При необхідності модифікувати скрипт (він використовує `PyParsing <https://pyparsing-docs.readthedocs.io/en/latest/HowToUsePyparsing.html>`_ бібліотеку).
 
 Для запуску потрібно Python3 і pyParsing модуль:
 
